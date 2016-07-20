@@ -11,7 +11,7 @@ public class ShapeTester
 
         for (final Shape1 shape : shapes)
         {
-            System.out.printf("The area is %1.2f \n", shape.getArea());
+            System.out.printf("The area is %1.3f \n", shape.getArea());
         }
     }
 
