@@ -1,6 +1,6 @@
 ---
 language: java
-script: javac labs\ShapeTester.java
+script: javac labs/ShapeTester.java
 jdk:
   - oraclejdk8
 
