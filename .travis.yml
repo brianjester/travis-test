@@ -1,0 +1,12 @@
+---
+language: java
+script: javac labs\ShapeTester.java
+jdk:
+  - oraclejdk8
+
+branches:
+  only:
+  - master
+notifications:
+  email:
+  - brianjester@gmail.com
